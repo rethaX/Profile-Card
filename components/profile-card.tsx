@@ -91,7 +91,7 @@ export default function ProfileCard() {
         </div>
 
         <div className="mt-4">
-          <p className="font-cursive text-lg text-center">"Turning coffee into code since 2015"</p>
+          <p className="font-cursive text-lg text-center">"Turning coffee into code since 2022"</p>
         </div>
       </CardContent>
 

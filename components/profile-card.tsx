@@ -38,7 +38,7 @@ export default function ProfileCard() {
           <div>
             <h2 className="text-2xl font-bold font-mono">Rethabile Mokwane</h2>
             <p className="text-muted-foreground flex items-center gap-1">
-              <Coffee className="h-4 w-4" /> JUnior Java Developer
+              <Coffee className="h-4 w-4" /> Junior Java Developer
             </p>
           </div>
           <div className="flex gap-2">

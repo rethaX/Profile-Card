@@ -58,7 +58,7 @@ export default function ProfileCard() {
 
       <CardContent className="space-y-4">
         <div className="code-block text-sm">
-          <p className="dev-text">I specialize in building robust applications with Java, Python, and modern web technologies. Passionate about creating efficient, scalable, and user-friendly solutions.</p>
+          <p className="dev-text">Turning complex problems into elegant code. I build high-performance applications with Java, Python, and cutting-edge web tech—scalable, efficient, and user-focused.</p>
         </div>
 
         <div className="space-y-2">

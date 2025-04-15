@@ -23,8 +23,8 @@ export default function ProfileCard() {
         <div className="absolute -bottom-12 left-6">
           <div className="rounded-full border-4 border-white bg-white overflow-hidden">
             <Image
-              src="/placeholder.svg?height=80&width=80"
-              alt="Profile"
+              src="/RethabileMokwanePhoto.jpg"
+              alt="Rethabile Mokwane"
               width={80}
               height={80}
               className="object-cover"
@@ -104,7 +104,7 @@ export default function ProfileCard() {
             </Link>
           </Button>
           <Button asChild variant="outline" size="icon">
-            <Link href="rethabile-web-portfolio.vercel.app" className="website-icon">
+            <Link href="https://rethabile-web-portfolio.vercel.app" className="website-icon">
               <ExternalLink className="h-4 w-4" />
             </Link>
           </Button>

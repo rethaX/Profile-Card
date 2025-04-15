@@ -81,11 +81,11 @@ export default function ProfileCard() {
         <div className="space-y-2">
           <h3 className="font-mono text-sm font-bold">Experience</h3>
           <div className="text-sm space-y-1">
-            <p className="font-medium">Java Developer Intern At Digilink (Client: BMW)</p>
+            <p className="font-medium">Java Developer Intern @Digilink (Client: BMW)</p>
             <p className="text-muted-foreground">April 2024 - April 2025</p>
           </div>
           <div className="text-sm space-y-1">
-            <p className="font-medium">ICT Support Intern At Northridge Primary School</p>
+            <p className="font-medium">ICT Support Intern  @Northridge Primary School</p>
             <p className="text-muted-foreground">February 2023 - February 2024</p>
           </div>
         </div>

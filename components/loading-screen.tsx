@@ -114,7 +114,7 @@ export default function LoadingScreen() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5 }}
           >
-            <p className="text-white font-mono text-sm">Loading portfolio...</p>
+            <p className="text-white font-mono text-sm">Loading Profile Card...</p>
           </motion.div>
         </motion.div>
       )}

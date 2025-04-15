@@ -25,8 +25,8 @@ export default function ProfileCard() {
             <Image
               src="/RethabileMokwanePhoto.jpg"
               alt="Rethabile Mokwane"
-              width={80}
-              height={80}
+              width={100}
+              height={100}
               className="object-cover"
             />
           </div>
@@ -98,9 +98,9 @@ export default function ProfileCard() {
       <CardFooter className="flex flex-col gap-4">
         <div className="w-full flex gap-2">
           <Button asChild className="flex-1">
-            <Link href="/resume" className="flex items-center gap-2">
+            <Link href="/RethabileMokwaneSoftwareDeveloperResume.pdf" target="_blank" className="flex items-center gap-2">
               <Code className="h-4 w-4" />
-              View Portfolio
+              View Resume
             </Link>
           </Button>
           <Button asChild variant="outline" size="icon">

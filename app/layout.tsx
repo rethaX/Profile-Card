@@ -27,8 +27,8 @@ const dancingScript = Dancing_Script({
 })
 
 export const metadata: Metadata = {
-  title: "Java Developer Profile",
-  description: "Professional profile card for a Java developer",
+  title: "Junior Java Developer Profile",
+  description: "Professional profile card for Rethabile Mokwane Junior Java developer",
     generator: 'v0.dev'
 }
 
